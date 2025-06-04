@@ -14,7 +14,9 @@ Manually upload
 ↓
 [AWS Glue Crawler (Schema Discovery)] ---yogyakarta-tourism-crawler (made using aws_glue_crawler_implementation.py)
 ↓
-[AWS Glue Data Catalog (Metadata Management)] ---yogyakarta_tourism_db (made using aws_glue_crawler_implementation.py the structure can be seen on glue_crawler_result.txt)
+[AWS Glue Data Catalog (Metadata Management)] ---made using aws_glue_crawler_implementation.py the structure can be seen on glue_crawler_result.txt
+└─ yogyakarta_tourism_db
+    └─ yogya_tourism_raw_json
 ↓
 [AWS Glue ETL Jobs (Data Transformation)] ---script at fixed_glue_etl_job
 ├─ Hotel Matching & Integration
