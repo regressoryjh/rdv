@@ -1,0 +1,27 @@
+[Raw Data Sources (JSON Files)]
+↓
+Manually upload
+↓
+[Amazon S3 Bucket (Raw Data Storage)]
+└─ rdv-apify-storage/
+    ├─ processed/
+    └─ raw-json/
+        ├─ booking - full hotel.json
+        ├─ booking - full review of hotel.json
+        ├─ geospatial tujuan wisata.json
+        ├─ tripadvisor - full hotel.json
+        └─ tripadvisor - full review of hotel.json 
+↓
+[AWS Glue Crawler (Schema Discovery)] ---yogyakarta-tourism-crawler (made using aws_glue_crawler_implementation.py)
+↓
+[AWS Glue Data Catalog (Metadata Management)] ---yogyakarta_tourism_db (made using aws_glue_crawler_implementation.py the structure can be seen on glue_crawler_result.txt)
+↓
+[AWS Glue ETL Jobs (Data Transformation)] ---script at fixed_glue_etl_job
+├─ Hotel Matching & Integration
+├─ Data Cleansing & Standardization  
+├─ Geospatial Distance Calculation
+└─ Feature Engineering
+↓
+[Amazon RDS (Processed Data)]
+↓
+[Amazon QuickSight (Visualization & Dashboard)]
