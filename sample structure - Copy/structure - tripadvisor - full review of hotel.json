@@ -1,0 +1,70 @@
+[{
+  "id": "1006520568",
+  "url": "https://www.tripadvisor.com/ShowUserReviews-g14782503-d2292185-r1006520568-Ibis_Styles_Yogyakarta-Yogyakarta_Yogyakarta_Region_Java.html",
+  "title": "Priangga Renol Trip Jogja (Ibis Styles Yogyakarta)",
+  "lang": "in",
+  "locationId": "2292185",
+  "publishedDate": "2025-05-09",
+  "publishedPlatform": "OTHER",
+  "rating": 5,
+  "helpfulVotes": 0,
+  "text": "Hotelnya bagus , pelayanan ramah , fasilitas oke ada kolam renang cocok untuk anak2 saya suka renang , Kamarnya nyaman, fasilitas lengkap , Tv Android Include Internet Wifi jaringan bagus , pokoknya suka Menginap di Ibis styles, Terimakasih",
+  "roomTip": null,
+  "travelDate": "2025-05",
+  "tripType": "FAMILY",
+  "user": {
+    "userId": "C150D4766599AAC7AC7294EEDB5F2215",
+    "name": "Nomad63714722336",
+    "contributions": {
+      "totalContributions": 1,
+      "helpfulVotes": 0
+    },
+    "username": "Nomad63714722336",
+    "userLocation": null,
+    "avatar": {
+      "id": "452391352",
+      "width": 1200,
+      "height": 1200,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+    },
+    "link": "www.tripadvisor.com/Profile/Nomad63714722336"
+  },
+  "ownerResponse": null,
+  "subratings": [],
+  "photos": [
+    {
+      "id": "802237924",
+      "width": 4000,
+      "height": 3000,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/d1/2d/e4/caption.jpg"
+    }
+  ],
+  "placeInfo": {
+    "id": "2292185",
+    "name": "Ibis Styles Yogyakarta",
+    "rating": 4.2,
+    "numberOfReviews": 1538,
+    "locationString": "Yogyakarta, Yogyakarta Region, Java",
+    "latitude": -7.793654,
+    "longitude": 110.36151,
+    "webUrl": "https://www.tripadvisor.com/Hotel_Review-g14782503-d2292185-Reviews-Ibis_Styles_Yogyakarta-Yogyakarta_Yogyakarta_Region_Java.html",
+    "website": "http://www.accorhotels.com/gb/hotel-7460-ibis-styles-yogyakarta-previously-all-seasons/index.shtml",
+    "address": "Jl. Dagen no. 109, Yogyakarta 55271 Indonesia",
+    "addressObj": {
+      "street1": "Jl. Dagen no. 109",
+      "street2": null,
+      "city": "Yogyakarta",
+      "state": null,
+      "country": "Indonesia",
+      "postalcode": "55271"
+    },
+    "ratingHistogram": {
+      "count1": 18,
+      "count2": 33,
+      "count3": 207,
+      "count4": 676,
+      "count5": 604
+    }
+  }
+}
+]

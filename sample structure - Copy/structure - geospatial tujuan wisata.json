@@ -1,0 +1,190 @@
+[{
+  "title": "Nikeru Ramen",
+  "price": null,
+  "categoryName": "Ramen restaurant",
+  "address": "Gg. Sawit Sari I No.30, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166, Indonesia",
+  "neighborhood": "Semaki, Umbulharjo",
+  "street": "Gg. Sawit Sari I No.30",
+  "city": "Yogyakarta City",
+  "postalCode": "55166",
+  "state": "Special Region of Yogyakarta",
+  "countryCode": "ID",
+  "phone": "+62 856-4004-8666",
+  "phoneUnformatted": "+6285640048666",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -7.8009825,
+    "lng": 110.3870597
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ-eOr4zlXei4RKIuZMVl1j10",
+  "categories": [
+    "Ramen restaurant",
+    "Halal restaurant"
+  ],
+  "fid": "0x2e7a5739e3abe3f9:0x5d8f755931998b28",
+  "cid": "6741736193141607208",
+  "reviewsCount": 495,
+  "imagesCount": 946,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-15T05:11:16.167Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12 to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 8 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Outdoor seating": true
+      },
+      {
+        "No-contact delivery": true
+      },
+      {
+        "Delivery": true
+      },
+      {
+        "Takeout": true
+      },
+      {
+        "Dine-in": true
+      }
+    ],
+    "Highlights": [
+      {
+        "Great tea selection": true
+      }
+    ],
+    "Popular for": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Solo dining": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Offerings": [
+      {
+        "Halal food": true
+      },
+      {
+        "Quick bite": true
+      }
+    ],
+    "Dining options": [
+      {
+        "Lunch": true
+      },
+      {
+        "Dinner": true
+      },
+      {
+        "Seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Atmosphere": [
+      {
+        "Casual": true
+      },
+      {
+        "Cozy": true
+      },
+      {
+        "Quiet": true
+      },
+      {
+        "Trendy": true
+      }
+    ],
+    "Crowd": [
+      {
+        "College students": true
+      },
+      {
+        "Groups": true
+      }
+    ],
+    "Planning": [
+      {
+        "Accepts reservations": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      }
+    ],
+    "Children": [
+      {
+        "Good for kids": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free parking lot": true
+      },
+      {
+        "Free street parking": true
+      },
+      null
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nikeru%20Ramen&query_place_id=ChIJ-eOr4zlXei4RKIuZMVl1j10",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurant/@-7.803309249999998,110.38828507831002,17z?hl=en",
+  "searchString": "restaurant",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "tidak digunakan untuk pipeline",
+  "kgmid": "/g/11nmlv5ddc"
+}]

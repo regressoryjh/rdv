@@ -1,0 +1,339 @@
+[{
+  "order": 100,
+  "url": "https://www.booking.com/hotel/id/tasneem-boutique-convention.id.html?selected_currency=IDR&lang=id&group_adults=2&group_children=0&no_rooms=1&soz=1&lang_changed=1&explicit_lang_change=1&explicit_curr_change=1",
+  "name": "Tasneem Hotel Malioboro Yogyakarta",
+  "type": "hotel",
+  "description": "Mudah dicapai hanya dalam 5 menit berkendara dari Keraton Yogyakarta yang ikonis di Yogyakarta, Tasneem Hotel Malioboro Yogyakarta menawarkan akomodasi modern dengan akses WiFi gratis di seluruh areanya.\n\nDibutuhkan waktu 10 menit berkendara dari hotel ke daerah Malioboro yang terkenal dan Istana Air Tamansari yang bersejarah. Bandara Internasional Adisucipto dapat dijangkau dengan mobil dalam waktu sekitar 20 menit.\n\nSetiap kamar di Tasneem Hotel and Convention Yogyakarta dilengkapi dengan AC, TV satelit layar datar, area tempat duduk, lemari pakaian, serta kamar mandi dalam dengan fasilitas shower, amenitas kamar mandi gratis, dan sandal kamar. Handuk dan seprai bersih juga disediakan.\n\nHotel ini juga menyediakan resepsionis 24 jam dan layanan kebersihan harian. Untuk pilihan bersantap, Ethnik Restaurant di hotel menyajikan sarapan prasmanan internasional dan menu ala carte. Selain itu, Anda juga dapat menjelajahi daerah sekitarnya di mana berbagai restoran dan tempat makan dapat ditemukan hanya dalam 10 menit berjalan kaki.Jarak di deskripsi akomodasi dihitung menggunakan © OpenStreetMap",
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "rating": null,
+  "reviews": 0,
+  "breakfast": "Kontinental, Vegetarian, Halal, Asia, A la Amerika, Buffet",
+  "checkIn": "Dari 14.00 sampai 23.00",
+  "checkOut": "Dari 07.00 sampai 11.30",
+  "checkInDate": null,
+  "checkOutDate": null,
+  "location": {
+    "lat": "-7.8081975",
+    "lng": "110.3708684"
+  },
+  "address": {
+    "full": "Jalan Brigjend. Katamso-Ireda, Keparakan, Mergangsan, Mergangsan, 55152 Yogyakarta, Indonesia",
+    "postalCode": "55152",
+    "street": "Jalan Brigjend. Katamso-Ireda, Keparakan, Mergangsan",
+    "country": "Indonesia",
+    "region": "Yogyakarta"
+  },
+  "image": "tidak digunakan untuk pipeline",
+  "rooms": [],
+  "images": [
+    "tidak digunakan untuk pipeline"
+  ],
+  "roomImages": [
+    "tidak digunakan untuk pipeline"
+  ],
+  "categoryReviews": [],
+  "facilities": [
+    {
+      "name": "Kamar Mandi",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Tisu toilet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Handuk",
+          "additionalInfo": []
+        },
+        {
+          "name": "Handuk/seprai dengan biaya tambahan",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sandal",
+          "additionalInfo": []
+        },
+        {
+          "name": "Kamar mandi pribadi",
+          "additionalInfo": []
+        },
+        {
+          "name": "Toilet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Peralatan mandi",
+          "additionalInfo": []
+        },
+        {
+          "name": "Shower",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Kamar Tidur",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Seprai",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lemari",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Perabotan luar ruangan",
+          "additionalInfo": []
+        },
+        {
+          "name": "Teras",
+          "additionalInfo": []
+        },
+        {
+          "name": "Taman",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Dapur",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Ketel listrik",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Amenitas Kamar",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Stop kontak dekat tempat tidur",
+          "additionalInfo": []
+        },
+        {
+          "name": "Papan Jemur Baju",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Kegiatan",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Hiburan malam",
+          "additionalInfo": [
+            "Biaya tambahan"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ruang Tamu",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Meja kerja",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media/Teknologi",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "TV layar datar",
+          "additionalInfo": []
+        },
+        {
+          "name": "TV kabel",
+          "additionalInfo": []
+        },
+        {
+          "name": "TV satelit",
+          "additionalInfo": []
+        },
+        {
+          "name": "Telepon",
+          "additionalInfo": []
+        },
+        {
+          "name": "TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Makanan & Minuman",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sarapan dalam kamar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Restoran",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "Wi-Fi tersedia di seluruh hotel dan tidak dikenai biaya.",
+      "facilities": []
+    },
+    {
+      "name": "Tempat Parkir",
+      "overview": "Parkir pribadi gratis tersedia di lokasi properti (reservasi tidak diperlukan).",
+      "facilities": []
+    },
+    {
+      "name": "Layanan resepsionis",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Resepsionis 24 Jam",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Layanan kebersihan",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Layanan kebersihan harian",
+          "additionalInfo": []
+        },
+        {
+          "name": "Alat press celana",
+          "additionalInfo": []
+        },
+        {
+          "name": "Jasa penyetrikaan",
+          "additionalInfo": []
+        },
+        {
+          "name": "Dry cleaning",
+          "additionalInfo": [
+            "Biaya tambahan"
+          ]
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Biaya tambahan"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fasilitas bisnis",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Faks/fotokopi",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fasilitas rapat/perjamuan",
+          "additionalInfo": [
+            "Biaya tambahan"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Umum",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "AC",
+          "additionalInfo": []
+        },
+        {
+          "name": "Layanan bangun tidur",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lantai keramik/marmer",
+          "additionalInfo": []
+        },
+        {
+          "name": "Penyewaan mobil",
+          "additionalInfo": []
+        },
+        {
+          "name": "Makan siang kemasan",
+          "additionalInfo": []
+        },
+        {
+          "name": "Antar-jemput bandara",
+          "additionalInfo": [
+            "Biaya tambahan"
+          ]
+        },
+        {
+          "name": "Kamar bebas rokok",
+          "additionalInfo": []
+        },
+        {
+          "name": "Layanan kamar",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Kemudahan akses",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Semua unit bisa diakses dengan kursi roda",
+          "additionalInfo": []
+        },
+        {
+          "name": "Semua unit terletak di lantai dasar",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bahasa yang digunakan",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Bahasa Inggris",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bahasa Indonesia",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "licenseInfo": null,
+  "hostInfo": null,
+  "traderInfo": null,
+  "breadcrumbs": [
+    "tidak digunakan untuk pipeline"
+  ],
+  "hotelId": 1356673,
+  "timeOfScrapeISO": "tidak digunakan untuk pipeline"
+}
+]

@@ -1,0 +1,72 @@
+[{
+  "likedText": "Lokasinya strategis dekat ke Titik Nol KiloMeter Yogyakarta",
+  "dislikedText": "AC agak kurang dingin",
+  "reviewTitle": "Tempat yang nyaman untuk sekeluarga",
+  "travelerType": "Solo traveler",
+  "userLocation": "Indonesia",
+  "userName": "Arnie",
+  "userAvatar": "tidak digunakan untuk pipeline",
+  "rating": 10,
+  "propertyResponse": null,
+  "checkInDate": "2025-04-03",
+  "checkOutDate": "2025-04-04",
+  "reviewDate": "2025-04-08T10:54:07.000Z",
+  "images": [],
+  "id": "8f3be35c7a76901a",
+  "roomInfo": "Four-Bedroom House",
+  "numberOfNights": 1,
+  "reviewLanguage": "id",
+  "stayRoomId": 1074130502,
+  "helpfulVotes": 0,
+  "totalCategoryReviews": 2,
+  "hotelRatingScores": [
+    {
+      "name": "Staff",
+      "codeName": "hotel_staff",
+      "score": 8.75000095367432
+    },
+    {
+      "name": "Facilities",
+      "codeName": "hotel_services",
+      "score": 8.75000095367432
+    },
+    {
+      "name": "Cleanliness",
+      "codeName": "hotel_clean",
+      "score": 8.75000095367432
+    },
+    {
+      "name": "Comfort",
+      "codeName": "hotel_comfort",
+      "score": 8.75000095367432
+    },
+    {
+      "name": "Value for money",
+      "codeName": "hotel_value",
+      "score": 8.75000095367432
+    },
+    {
+      "name": "Location",
+      "codeName": "hotel_location",
+      "score": 8.75000095367432
+    }
+  ],
+  "hotelId": 10741305,
+  "reviewsScoreFilter": "ALL",
+  "reviewPage": 1,
+  "startUrl": "https://www.booking.com/hotel/id/alhabfar-homestay.id.html?selected_currency=IDR&lang=id&group_adults=2&group_children=0&no_rooms=1&soz=1&lang_changed=1&explicit_lang_change=1&explicit_curr_change=1"
+},
+{
+  "error": "no_reviews_found",
+  "errorDescription": "No reviews found for the provided property.",
+  "input": "https://www.booking.com/hotel/id/recharge-cafe-amp-garasi-homestay.id.html?selected_currency=IDR&lang=id&group_adults=2&group_children=0&no_rooms=1&soz=1&lang_changed=1&explicit_lang_change=1&explicit_curr_change=1",
+  "url": "https://www.booking.com/dml/graphql",
+  "reviewsCategoryData": {
+    "totalCategoryReviews": 0,
+    "hotelRatingScores": [],
+    "hotelId": 8072947,
+    "reviewsScoreFilter": "ALL",
+    "reviewPage": 1,
+    "startUrl": "https://www.booking.com/hotel/id/recharge-cafe-amp-garasi-homestay.id.html?selected_currency=IDR&lang=id&group_adults=2&group_children=0&no_rooms=1&soz=1&lang_changed=1&explicit_lang_change=1&explicit_curr_change=1"
+  }
+}]
