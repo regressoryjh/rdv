@@ -18,12 +18,18 @@ Manually upload
 └─ yogyakarta_tourism_db
     └─ yogya_tourism_raw_json
 ↓
-[AWS Glue ETL Jobs (Data Transformation)] ---script at fixed_glue_etl_job
+[AWS Glue ETL Jobs (Data Transformation)]
 ├─ Hotel Matching & Integration
-├─ Data Cleansing & Standardization  
+├─ Data Cleansing & Standardization
 ├─ Geospatial Distance Calculation
-└─ Feature Engineering
+├─ Feature Engineering
+├─ Prediction Features Creation
+└─ Data Quality Validation
 ↓
-[Amazon RDS (Processed Data)]
+[Amazon S3 Bucket (Processed Data - Parquet Format)] ---saved it to rdv-apify-storage/processed/
+├─ hotel_features.parquet
+├─ review_features.parquet
+├─ geospatial_features.parquet
+└─ prediction_dataset.parquet
 ↓
 [Amazon QuickSight (Visualization & Dashboard)]
